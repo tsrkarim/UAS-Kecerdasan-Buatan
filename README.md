@@ -31,4 +31,3 @@ Tujuannya adalah mencari nilai $x$ pada rentang $[-10, 10]$ yang menghasilkan ni
 * **Solusi $x$ Terbaik:** `2.0039`
 * **Nilai Fitness Maksimum:** `14.0000`
 * **Ditemukan Pada:** Generasi ke-12
-* 
